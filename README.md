@@ -7,7 +7,7 @@ Using Scikit-learn to classify potentially dangerous asteroids from NASA data.
 
 # Notebook
 
-1. Ahh
+1. [Ahhsteroids.ipynb](Ahhsteroids.ipynb) The notebook containing all of the analysis,
 
 # Approach
 
