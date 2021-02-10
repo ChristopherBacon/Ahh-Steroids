@@ -1,5 +1,5 @@
 # Ahh-Steroids
-Using Scikit-learn to classify potentially dangerous asteroids from NASA data
+Using Scikit-learn to classify potentially dangerous asteroids from NASA data.
 
 # Data
 
@@ -7,4 +7,4 @@ Using Scikit-learn to classify potentially dangerous asteroids from NASA data
 
 # Approach
 
-
+Testing a number of ML models from Scikit-learn to see which gives us potentially the best fit. This was my first ML learning project and I learnt alot, really enjoyable applying these techniques to an actual NASA dataset. 
